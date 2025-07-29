@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Profile Photo -->
+<p align="center">
+  <img src="assets/profile.jpg" alt="Aryaman Bista's Profile Photo" width="220"/>
+</p>
 
-<!--
-**Aryamanbista/Aryamanbista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Aryaman Bista 👋</h1>
+<p align="center">
+  <b>Learning, Leading, Building | Dev & Design Explorer | Community First</b><br>
+  Kathmandu, Bāgmatī, Nepal
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Third-year Information Technology student at Midvalley International College.
+- 🌱 Passionate about **Design**, **Fullstack Software Development**, **AI & Machine Learning**.
+- 📊 Interested in data analytics, creative design, and building impactful solutions.
+- 🤝 Community-oriented and always eager to collaborate and learn.
+
+---
+
+## 🛠️ Tech & Skills
+
+- **Programming:** Python, R
+- **Analytics:** Descriptive & Diagnostic Analytics
+- **Databases:** Oracle Database
+- **Other Interests:** Generative AI, Intermediate Python, Data Structures
+
+---
+
+## 🏆 Certifications
+
+- Python for Beginners: Data Structures
+- Level 1 Descriptive and Diagnostic Analytics
+- Introduction to Generative AI
+- Intermediate Python
+- Python Data Structures
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-bista-b93366260)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aryamanbista)
+
+---
+
+> “Learning, Leading, Building — Empowering communities through code and creativity.”

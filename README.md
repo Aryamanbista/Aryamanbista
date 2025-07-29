@@ -4,10 +4,6 @@
   </a>
 </p>
 
-    
-  
-
-
 <div align="center">
 
 # Hi there, I'm Aryaman Bista 👋
@@ -74,4 +70,4 @@ My skill set is constantly growing. Here are some of the technologies I've been 
   </a>
 </p>
 
----
+

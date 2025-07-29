@@ -1,10 +1,19 @@
-<p align="right">
-  <img src="profile.JPEG" alt="Aryaman Bista" width="180px" style="border-radius:50%;">
+<p align="center">
+  <a href="https://linkedin.com/in/aryaman-bista-b93366260" target="_blank">
+    <img 
+      src="PASTE_YOUR_IMAGE_URL_HERE" 
+      alt="Aryaman Bista Profile Picture" 
+      width="200px" 
+      style="border-radius:50%; border: 4px solid #ADD8E6;">
+  </a>
 </p>
 
-# Hi there, I'm Aryaman Bista 👋
+<div align="center">
 
-> Learning, Leading, Building | Dev & Design Explorer | Community First
+# Hi there, I'm Aryaman Bista 👋
+### Learning, Leading, Building | Dev & Design Explorer | Community First
+
+</div>
 
 I'm a passionate and driven Information Technology student based in Kathmandu, Nepal, with a deep curiosity for building impactful solutions. I'm currently pursuing my BIT (Hons) and am on a journey to master the worlds of AI, web development, and data science. My goal is to leverage technology to solve real-world problems and contribute to the developer community.
 

@@ -1,6 +1,6 @@
 <!-- Profile Photo -->
 <p align="center">
-  <img src="assets/profile.jpg" alt="Aryaman Bista's Profile Photo" width="220"/>
+  <img src="profile.jpeg" alt="Aryaman Bista's Profile Photo" width="220"/>
 </p>
 
 <h1 align="center">Hi, I'm Aryaman Bista 👋</h1>

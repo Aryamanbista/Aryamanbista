@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/aryaman-bista-b93366260" target="_blank">
     <img 
-      src="PASTE_YOUR_IMAGE_URL_HERE" 
+      src="profile.JPEG" 
       alt="Aryaman Bista Profile Picture" 
       width="200px" 
       style="border-radius:50%; border: 4px solid #ADD8E6;">

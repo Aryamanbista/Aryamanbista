@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="profile.JPEG" alt="Aryaman Bista" width="180px" style="border-radius:50%;">
+</p>
+
 # Hi there, I'm Aryaman Bista 👋
 
 > Learning, Leading, Building | Dev & Design Explorer | Community First
@@ -54,7 +58,7 @@ My skill set is constantly growing. Here are some of the technologies I've been 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryamanbista&show_icons=true&theme=dracula&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanbista&layout=compact&theme=dracula" />
